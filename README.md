@@ -15,7 +15,12 @@ b. If the URL "amqp://guest:guest@localhost:5672" is used in both the publisher 
    *subscriber terminal*
    ![image](https://github.com/Samuelwidjaja/tutorial8-publisher/assets/119392779/87144709-fd18-40d9-8d30-1e8f3677af53)
    *RabbitMQ process*
-   ![image](https://github.com/Samuelwidjaja/tutorial8-publisher/assets/119392779/c2150eae-36ca-49bd-aa2a-ae32ade94daf)
+   ![image](https://github.com/Samuelwidjaja/tutorial8-publisher/assets/119392779/06080284-86e7-4c5f-b011-aa65198c1b40)
+
+3. Monitoring chart based on publisher
+   ![image](https://github.com/Samuelwidjaja/tutorial8-publisher/assets/119392779/2c7b1077-a506-45e1-9dcb-a55e26f9389e)
+
+
 
 
 
