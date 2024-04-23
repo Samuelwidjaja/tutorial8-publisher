@@ -8,3 +8,14 @@ b. If the URL "amqp://guest:guest@localhost:5672" is used in both the publisher 
 
 1. RabbitMQ as message broker
    ![image](https://github.com/Samuelwidjaja/tutorial8-publisher/assets/119392779/249fa54e-31b0-4c92-bc2d-2d26a47599ca)
+
+2. Sending and processing event
+   *publisher terminal*
+   ![image](https://github.com/Samuelwidjaja/tutorial8-publisher/assets/119392779/ecf12674-7935-4837-a9bb-e61b90d746ee)
+   *subscriber terminal*
+   ![image](https://github.com/Samuelwidjaja/tutorial8-publisher/assets/119392779/87144709-fd18-40d9-8d30-1e8f3677af53)
+   *RabbitMQ process*
+   ![image](https://github.com/Samuelwidjaja/tutorial8-publisher/assets/119392779/c2150eae-36ca-49bd-aa2a-ae32ade94daf)
+
+
+
